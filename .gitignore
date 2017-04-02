@@ -1,7 +1,3 @@
-wx/sec/
-wx/*.mp3
-wx/*.wav
-
 # Object files
 *.o
 *.ko
